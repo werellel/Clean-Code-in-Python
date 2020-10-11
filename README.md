@@ -7,7 +7,7 @@ Study Clean code for Python using pythonic code
 
 ## 3. General Characteristics of Python
 
-## 4.SOLID
+## 4. SOLID
 
 ## 5. Decorator
 
